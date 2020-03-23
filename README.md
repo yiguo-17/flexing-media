@@ -17,9 +17,10 @@ Here are the different column layouts we want:
 
 1. Fork and clone this repo.
 2. Let's start using HTML snippets! Go to [our html snippets repo](https://github.com/ci-wdi-900/html-snippets) and download or clone the `html.json` file. Now open VS Code, enter the command palette (Command-Shift-P) and find Preferences: Configure User Snippets. Scroll down to and select `html` (or start typing "html"!), then copy and paste the entire contents of your downloaded file into there.
-3. Now you can USE that snippet. Create an `index.html` in your forked version of this repo and type "html". Three autocomplete suggestions are for the snippets you just grabbed: an html skeleton, an html skeleton with a `style.css` link, and an html skeleton with the `style.css` link and a `main.js` link. For this one, we don't need any JavaScript, so just choose that second one and you've got your HTML skeleton! (You can find LOTS of snippet collections out there, including just by typing "snippets" in the extension search in your sidebar!
-4. Now let's use Emmet to make 20 divs with the "square" class (defined already in our CSS file!) and a number in each one. Type the following code (without backticks) into the body and hit enter: `div.square{$}*20`. Now you've got most of the html you need for this assignment and you can get started! Try to use these tools whenever you can; they'll save you a lot of time.
+3. Now you can USE that snippet. Create an `index.html` in your forked version of this repo and type "html". Three autocomplete suggestions are for the snippets you just grabbed: an html skeleton, an html skeleton with a `style.css` link, and an html skeleton with the `style.css` link and a `main.js` link. For this one, we don't need any JavaScript, so just choose that second one and you've got your HTML skeleton! (You can find LOTS of snippet collections out there, including just by typing "snippets" in the extension search in your sidebar!)
+4. Now let's use Emmet to make 20 divs with the "square" class (defined already in our CSS file!) and a number in each one. Type the following code (without backticks if you're viewing this as straight markdown) into the body and hit enter: `div.square{$}*20`. Now you've got most of the html you need for this assignment and you can get started!
 
+Try to use these tools whenever you can; they'll save you a lot of time!
 
 ### Hints
 
