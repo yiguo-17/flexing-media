@@ -14,8 +14,9 @@
   border: 2px solid orange;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 600px) and (min-height: 600px ) {
   .container{
+    width: 84px;
     flex-direction: column;
   }
 }
